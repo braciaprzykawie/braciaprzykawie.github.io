@@ -674,9 +674,6 @@ a.btn.disabled {
     .navbar-expand-sm > .container {
       flex-wrap: nowrap; } }
 
-.rounded-circle {
-  border-radius: 50% !important; }
-
 .justify-content-start {
   justify-content: flex-start !important; }
 
